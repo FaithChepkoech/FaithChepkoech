@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaithChepkoech
-- 👀 I’m interested in ... all programming languages
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science, business inteligence and data engineering
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on building data solutions.
 - 📫 How to reach me ... chepkoechfaithchirchir@gmail.com
 
 <!---
